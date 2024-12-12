@@ -11,10 +11,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/SuiFansCN/suiue.git"
+        "url": "https://github.com/linqining/suiue.git"
     },
-    "bugs": "https://github.com/SuiFansCN/suiue/issues",
-    "homepage": "https://github.com/SuiFansCN/suiue",
+    "bugs": "https://github.com/linqining/suiue",
+    "homepage": "https://github.com/linqining/suiue",
     "type": "module",
     "exports": {
         ".": {
