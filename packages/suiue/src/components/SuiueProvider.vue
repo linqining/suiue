@@ -212,7 +212,7 @@ onMounted(() => {
             }
         }
     })
-
+    console.log(autoConnectCmp.effect)
     // autoConnectCmp.effect.run()
 })
 
