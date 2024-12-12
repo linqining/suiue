@@ -213,7 +213,7 @@ onMounted(() => {
         }
     })
 
-    autoConnectCmp.effect.run()
+    // autoConnectCmp.effect.run()
 })
 
 
